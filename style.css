@@ -1,0 +1,75 @@
+header {
+  text-align: center;
+  font-size: 65px;
+  background-color: rgb(243, 170, 74);
+  border: 3px rgb(10, 3, 3) solid;
+  border-radius: 10px;
+  color: rgb(5, 12, 14);
+}
+body {
+  background-color: rgb(129, 69, 29);
+}
+
+Footer {
+  border: 3px rgb(10, 3, 3) solid;
+  border: 5 px;
+}
+.flexible-main {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background-image: url("https://atellet.se/wp-content/uploads/2018/02/V%C3%A5r-meny.jpg.webp");
+  padding: 10px;
+}
+nav a {
+  font-size: 20px;
+  color: rgb(3, 1, 1);
+}
+
+h2 {
+  color: rgb(144, 150, 95);
+}
+
+.bakgrund {
+  background-image: url("https://froda.se/wp-content/uploads/2018/08/froda_3-satt-att-fa-fler-gaster-till-din-restaurang-1600x1017.jpg");
+}
+footer {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+#Laxburgare {
+  width: 250px;
+  height: 250px;
+  border: 5px solid rgb(110, 43, 43);
+  border-radius: 5px;
+}
+#risotto {
+  width: 250px;
+  height: 250px;
+  border: 5px solid rgb(110, 43, 43);
+  border-radius: 5px;
+}
+#cremecaramel {
+  width: 250px;
+  border: 5px solid rgb(110, 43, 43);
+  border-radius: 5px;
+}
+
+.text-box {
+  padding: 18px;
+  background-color: rgb(243, 170, 74);
+  color: white;
+  border: 3px solid rgb(110, 43, 43);
+  width: 225px;
+}
+
+.text-box a {
+  color: rgb(253, 253, 251);
+}
+
+.flex-frame {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 16px;
+}
